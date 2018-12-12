@@ -108,7 +108,7 @@ export const specifiedRules: Array<(context: ValidationContext) => any> = [
   FieldsOnCorrectType,
   UniqueFragmentNames,
   KnownFragmentNames,
-  NoUnusedFragments,
+  // NoUnusedFragments,
   PossibleFragmentSpreads,
   NoFragmentCycles,
   UniqueVariableNames,
